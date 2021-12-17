@@ -1,0 +1,117 @@
+container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+/*.......... for py...... */
+.py {
+    background-color: #000000;
+    width: 328px;
+    height: 285px;
+    border: 2px solid #9086b8;
+    border-radius: 14px;
+    margin: -5px auto;
+    position: relative;
+    top: -27px;
+    right: -34px;
+}
+.py img{
+    width: 209px;
+height: 99px;
+position: relative;
+bottom: -5px;
+left: 39px;
+border-radius: 9px;
+    
+}
+
+/* .........for java.............. */
+.jav {
+    background-color: #000000;
+width: 334px;
+height: 285px;
+border: 2px solid #9086b8;
+border-radius: 14px;
+margin: -11px auto;
+position: relative;
+top: -20px;
+right: -7px;
+}
+
+.jav img{
+    width: 209px;
+height: 111px;
+position: relative;
+bottom: -6px;
+left: 53px;
+border-radius: 9px;
+}
+
+/*....... for cpp .............. */
+.cpp {
+    background-color: #000000;
+    width: 327px;
+    height: 292px;
+    border: 2px solid #9086b8;
+    border-radius: 14px;
+    margin: -10px auto;
+    position: relative;
+    top: -22px;
+    right: 22px;
+}
+.cpp img{
+    width: 209px;
+    height: 102px;
+    position: relative;
+    bottom: -5px;
+    left: 54px;
+    border-radius: 9px;
+}
+
+/* ...............Writing ways............. */
+/* for python fonts  */
+.py h3{
+    font-family: 'Slabo 27px', serif;
+    font-size: larger;
+    margin: 8px auto;
+    padding: -1px;
+    color: wheat;
+}
+.py p{
+    font-family: 'Slabo 27px', serif;
+    color: wheat;
+    margin: -6px auto;
+    width: 323px;
+    text-align: initial;
+}
+
+/* for java fonts  */
+.jav h3{
+    font-family: 'Slabo 27px', serif;
+    font-size: larger;
+    margin: 6px auto;
+    color: wheat;
+}
+.jav p{
+    font-family: 'Slabo 27px', serif;
+    color: wheat;
+    margin: 9px auto;
+    width: 339px;
+    text-align: initial;
+
+}
+
+/* for cpp fonts  */
+.cpp h3{
+    font-family: 'Slabo 27px', serif;
+    color: wheat;
+    font-size: larger;
+    margin: 3px auto;
+}
+.cpp p{
+    font-family: 'Slabo 27px', serif;
+    color: wheat;
+    margin: 1px auto;
+    width: 329px;
+    text-align: initial;
+}
