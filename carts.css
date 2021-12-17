@@ -1,0 +1,326 @@
+.carts {
+  background-color: rgb(250, 243, 243);
+  /* display: flex;
+    flex-direction:row;
+    justify-content: center; */
+  width: 1192px;
+  height: 1396px;
+  margin: 15px auto;
+}
+.cart1 {
+  display: flex;
+  flex-direction: row;
+  padding: 16px;
+}
+.cart2 {
+  display: flex;
+  flex-direction: row;
+}
+.cart3 {
+  display: flex;
+  flex-direction: row;
+}
+.cart4 {
+  display: flex;
+  flex-direction: row;
+}
+.cart5 {
+  display: flex;
+  flex-direction: row;
+}
+/* .............CARTS PRODUCT............. */
+.c1img img {
+  width: 120px;
+  height: 109px;
+  position: relative;
+  bottom: -1px;
+  right: -34px;
+}
+.c2img img {
+  width: 122px;
+  height: 110px;
+  position: relative;
+  bottom: -1px;
+  right: -56px;
+}
+.c3img img {
+  width: 124px;
+  height: 111px;
+  position: relative;
+  bottom: -1px;
+  right: -81px;
+}
+.c4img img {
+  width: 125px;
+  height: 113px;
+  position: relative;
+  bottom: -1px;
+  right: -108px;
+}
+.c5img img {
+  width: 119px;
+  height: 114px;
+  position: relative;
+  bottom: -1px;
+  right: -145px;
+}
+.c6img img {
+  width: 123px;
+  height: 110px;
+  position: relative;
+  bottom: -1px;
+  right: -178px;
+}
+.c7img img {
+  width: 123px;
+  height: 115px;
+  position: relative;
+  bottom: -1px;
+  right: -208px;
+}
+/* NOW THIS IS FOR CART 2 PRODUCTS */
+
+.c8img img {
+  width: 120px;
+  height: 109px;
+  position: relative;
+  bottom: -1px;
+  right: -48px;
+}
+.c9img img {
+  width: 122px;
+  height: 110px;
+  position: relative;
+  bottom: -1px;
+  right: -68px;
+}
+.c10img img {
+  width: 124px;
+  height: 111px;
+  position: relative;
+  bottom: -1px;
+  right: -93px;
+}
+.c11img img {
+  width: 125px;
+  height: 113px;
+  position: relative;
+  bottom: -1px;
+  right: -118px;
+}
+.c12img img {
+  width: 119px;
+  height: 114px;
+  position: relative;
+  bottom: -1px;
+  right: -150px;
+}
+.c13img img {
+  width: 123px;
+  height: 110px;
+  position: relative;
+  bottom: -1px;
+  right: -182px;
+}
+.c14img img {
+  width: 129px;
+  height: 115px;
+  position: relative;
+  bottom: -1px;
+  right: -217px;
+}
+
+/* THIS IS FOR THE CART 3 PRODUCTS */
+
+.c15img img {
+  width: 120px;
+  height: 109px;
+  position: relative;
+  bottom: -1px;
+  right: -34px;
+}
+.c16img img {
+  width: 124px;
+  height: 111px;
+  position: relative;
+  bottom: -1px;
+  right: -70px;
+}
+.c17img img {
+  width: 125px;
+  height: 113px;
+  position: relative;
+  bottom: -1px;
+  right: -94px;
+}
+.c18img img {
+  width: 119px;
+  height: 114px;
+  position: relative;
+  bottom: -1px;
+  right: -121px;
+}
+.c19img img {
+  width: 123px;
+  height: 110px;
+  position: relative;
+  bottom: -1px;
+  right: -150px;
+}
+.c20img img {
+  width: 129px;
+  height: 115px;
+  position: relative;
+  bottom: -1px;
+  right: -178px;
+}
+.c21img img {
+  width: 129px;
+  height: 115px;
+  position: relative;
+  bottom: -1px;
+  right: -208px;
+}
+/*............................................. lines for cart1 ......................................*/
+.line {
+  position: relative;
+  top: 23px;
+  right: -32px;
+}
+.line1 {
+  position: relative;
+  top: 22px;
+  right: -61px;
+}
+
+.line2 {
+  position: relative;
+  top: 20px;
+  right: -84px;
+}
+.line3 {
+  position: relative;
+  top: 19px;
+  right: -108px;
+}
+.line4 {
+  position: relative;
+  top: 19px;
+  right: -136px;
+}
+.line5 {
+  position: relative;
+  top: 26px;
+  right: -178px;
+}
+.line6 {
+  position: relative;
+  top: 20px;
+  right: -205px;
+}
+/* .....................................line for cart2....................................... */
+
+.line7 {
+  position: relative;
+  top: 23px;
+  right: -32px;
+}
+.line8 {
+  position: relative;
+  top: 22px;
+  right: -61px;
+}
+
+.line9 {
+  position: relative;
+  top: 20px;
+  right: -84px;
+}
+.line10 {
+  position: relative;
+  top: 19px;
+  right: -108px;
+}
+.line11 {
+  position: relative;
+  top: 19px;
+  right: -136px;
+}
+.line12 {
+  position: relative;
+  top: 26px;
+  right: -178px;
+}
+.line13 {
+  position: relative;
+  top: 20px;
+  right: -205px;
+}
+/*................................ lines for cart 3............................... */
+
+.line14 {
+  position: relative;
+  top: 23px;
+  right: -32px;
+}
+.line15 {
+  position: relative;
+  top: 22px;
+  right: -61px;
+}
+
+.line16 {
+  position: relative;
+  top: 20px;
+  right: -84px;
+}
+.line17 {
+  position: relative;
+  top: 19px;
+  right: -108px;
+}
+.line18 {
+  position: relative;
+  top: 19px;
+  right: -136px;
+}
+.line19 {
+  position: relative;
+  top: 14px;
+  right: -175px;
+}
+.line20 {
+  position: relative;
+  top: 20px;
+  right: -205px;
+}
+/*................................. FOR LEFRIG................................ */
+.lefrig {
+  display: flex;
+  flex-direction: row;
+}
+.left img {
+  height: 194px;
+  width: 366px;
+  border-radius: 2px;
+  position: relative;
+  top: -6px;
+  left: 14px;
+}
+.middle img {
+  height: 193px;
+  width: 302px;
+  border-radius: 2px;
+  position: relative;
+  top: -4px;
+  left: 65px;
+}
+
+.right img {
+  height: 199px;
+  width: 372px;
+  border-radius: 2px;
+  position: relative;
+  top: -7px;
+  left: 129px;
+}
