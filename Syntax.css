@@ -1,0 +1,57 @@
+.syntax h3 {
+  color: rgb(187, 178, 157);
+  margin: 8px auto;
+  position: relative;
+  top: -1px;
+  right: -47px;
+  font-style: italic;
+}
+/* .....JAVA SYNTAX ..... */
+.syntax1 h3 {
+  color: rgb(187, 178, 157);
+  margin: 8px auto;
+  position: relative;
+  top: -1px;
+  right: -47px;
+  font-style: italic;
+}
+/*........ C++ SYNTAX ...... */
+.syntax2 h3 {
+  color: rgb(187, 178, 157);
+  margin: 8px auto;
+  position: relative;
+  top: -1px;
+  right: -47px;
+  font-style: italic;
+}
+/* ..........FOR PYTHON PROHRAM EDITIONS......... */
+.pythprog {
+  background-color: rgb(26, 26, 26);
+  color: rgb(177, 145, 83);
+  margin: 28px auto;
+  width: 1179px;
+  border: 1px solid #8e4854;
+}
+
+/*............ FOR JAVA EDITIONS ......... */
+.javaprog {
+  background-color: rgb(26, 26, 26);
+  color: rgb(177, 145, 83);
+  margin: 28px auto;
+  width: 1179px;
+  border: 1px solid #8e4854;
+}
+
+/*............ FOR C++ EDITIONS ......... */
+.cppprog {
+  background-color: rgb(26, 26, 26);
+  color: rgb(177, 145, 83);
+  margin: 28px auto;
+  width: 1179px;
+  border: 1px solid #8e4854;
+}
+
+footer {
+  color: white;
+  text-align: center;
+}
